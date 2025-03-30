@@ -1,0 +1,347 @@
+body {
+    font-family: 'Times New Roman', serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+    color: #333;
+    font-size: 16px;
+    line-height: 1.5;
+}
+/* ===== Base Link Styles ===== */
+a {
+    color: #8b0000; /* Dark red */
+    text-decoration: none;
+    transition: all 0.3s ease;
+    position: relative;
+}
+
+a:hover {
+    color: #5a0000; /* Darker red on hover */
+}
+
+/* Underline effect */
+a:not(.no-underline)::after {
+    content: '';
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    width: 0;
+    height: 1px;
+    background-color: #8b0000;
+    transition: width 0.3s ease;
+}
+
+a:hover::after {
+    width: 100%;
+}
+header {
+    background-color: #1a1a2e;
+    color: #f8f8f8;
+    padding: 2rem 0;
+    text-align: center;
+    border-bottom: 5px solid #8b0000;
+}
+
+.logo {
+    font-size: 4rem;
+    font-weight: bold;
+    letter-spacing: 5px;
+    margin-bottom: 0.5rem;
+    text-transform: uppercase;
+}
+
+.subtitle {
+    font-size: 1.5rem;
+    letter-spacing: 2px;
+    margin-bottom: 1rem;
+}
+
+nav {
+    background-color: #8b0000;
+    padding: 1rem 0;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav li {
+    margin: 0 1.5rem;
+}
+
+nav a {
+    color: #f8f8f8;
+    text-decoration: none;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+.featured-topics {
+    background-color: #e6e6e6;
+    padding: 1rem 0;
+    text-align: center;
+    border-bottom: 2px solid #8b0000;
+}
+
+.featured-topics h2 {
+    margin: 0;
+    font-size: 1.2rem;
+    letter-spacing: 1px;
+}
+
+main {
+    max-width: 1200px;
+    margin: 2rem auto;
+    padding: 0 2rem;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 2rem;
+}
+
+article {
+    margin-bottom: 2rem;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 1rem;
+}
+
+article h2 {
+    color: #8b0000;
+    font-size: 1.8rem;
+    margin-bottom: 0.5rem;
+}
+
+article .date {
+    color: #666;
+    font-style: italic;
+    margin-bottom: 1rem;
+}
+
+article img {
+    margin: 1rem auto;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+aside {
+    border-left: 1px solid #ccc;
+    padding-left: 1.5rem;
+}
+
+aside h3 {
+    color: #8b0000;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 0.5rem;
+}
+
+footer {
+    background-color: #1a1a2e;
+    color: #f8f8f8;
+    text-align: center;
+    padding: 2rem 0;
+    margin-top: 2rem;
+}
+
+.highlight {
+    font-weight: bold;
+    color: #8b0000;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+/* ===== Base Responsive Styles ===== */
+@media (max-width: 768px) {
+    body {
+        font-size: 15px;
+    }
+    
+    h1, h2, h3 {
+        line-height: 1.3;
+    }
+}
+@media (max-width: 768px) {
+    /* Header adjustments */
+    header {
+        padding: 1rem 0;
+    }
+    
+    .logo {
+        font-size: 2.5rem;
+        letter-spacing: 2px;
+    }
+    
+    .subtitle {
+        font-size: 1.1rem;
+    }
+    
+    /* Navigation */
+    nav ul {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    nav li {
+        margin: 0.5rem 0;
+    }
+    
+    /* Main content layout */
+    main {
+        grid-template-columns: 1fr;
+        padding: 0 1rem;
+    }
+    
+    /* Article adjustments */
+    article h2 {
+        font-size: 1.5rem;
+    }
+    
+    /* Sidebar becomes full-width */
+    aside {
+        border-left: none;
+        border-top: 1px solid #ccc;
+        padding-left: 0;
+        padding-top: 1.5rem;
+        margin-top: 2rem;
+    }
+    
+    /* Footer adjustments */
+    footer {
+        padding: 1.5rem 1rem;
+    }
+    
+    /* Featured topics */
+    .featured-topics h2 {
+        display: block;
+        margin-bottom: 0.5rem;
+    }
+    
+    .topics-container {
+        justify-content: center;
+    }
+}
+
+/* ===== Tablet Styles (768px - 1024px) ===== */
+@media (min-width: 768px) and (max-width: 1024px) {
+    main {
+        grid-template-columns: 1.5fr 1fr;
+        padding: 0 1.5rem;
+    }
+    
+    .logo {
+        font-size: 3rem;
+    }
+}
+
+/* ===== Mobile-Specific Tweaks ===== */
+@media (max-width: 480px) {
+    .logo {
+        font-size: 2rem;
+    }
+    
+    .featured-topics .highlight-topic {
+        font-size: 0.9rem;
+        padding: 0.2rem 0.4rem;
+    }
+    
+    article img {
+        margin: 0.5rem 0;
+    }
+}
+.mobile-menu-button {
+    display: none; /* Hidden by default */
+    background: #8b0000;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    cursor: pointer;
+    font-size: 1.2rem;
+}
+/* Taxonomy Pages */
+.taxonomy-page, .terms-page {
+    max-width: 1200px;
+    margin: 2rem auto;
+    padding: 0 2rem;
+}
+
+.article-summary {
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #ccc;
+}
+
+.term-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    margin-bottom: 0.5rem;
+    background: #f5f5f5;
+}
+
+.term-item a {
+    color: #8b0000;
+}
+
+.count {
+    color: #666;
+    font-style: italic;
+}
+/* Pagination Styles */
+.pagination {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin: 3rem 0;
+    padding: 1.5rem 0;
+    border-top: 1px solid #eaeaea;
+}
+
+.pagination a {
+    color: #8b0000;
+    padding: 0.5rem 1rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.pagination a:hover {
+    background-color: #8b0000;
+    color: white;
+    border-color: #8b0000;
+}
+
+.pagination-current {
+    display: inline-flex;
+    align-items: center;
+    color: #666;
+}
+/* ===== Improved Mobile Navigation ===== */
+@media (max-width: 768px) {
+    /* Optional mobile menu button */
+    .mobile-menu-button {
+        display: block;
+        background: #8b0000;
+        color: white;
+        padding: 1rem;
+        text-align: center;
+        cursor: pointer;
+    }
+    
+    nav ul {
+        display: none;
+    }
+    
+    nav.expanded ul {
+        display: flex;
+    }
+}
