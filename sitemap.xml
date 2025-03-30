@@ -2,7 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/advancements-in-medical-technology-and-healthcare-access/</loc>
+    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/advances-in-medical-technology/</loc>
+    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/artificial-intelligence-development-and-ethical-concerns/</loc>
     <lastmod>2025-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/artificial-intelligence-development-and-regulation/</loc>
@@ -15,6 +21,9 @@
     <lastmod>2025-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/breaking-news/</loc>
+    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/opinion/brexit-backlash-and-balkan-boggarts-is-wizarding-e/</loc>
     <lastmod>2025-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
@@ -32,6 +41,9 @@
     <loc>http://localhost:1313/breaking-news/dragon-pox-outbreak-spurs-heated-debate-is-univers/</loc>
     <lastmod>2025-03-30T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/economic-inflation-and-cost-of-living-crisis/</loc>
+    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/quidditch/enchanted-automata-quidditchs-next-frontier-or-fou/</loc>
     <lastmod>2025-03-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -42,6 +54,12 @@
     <lastmod>2025-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/geopolitical-conflicts-and-tensions/</loc>
+    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/geopolitical-tensions-and-international-conflicts/</loc>
+    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/global-climate-change-and-extreme-weather-events/</loc>
     <lastmod>2025-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/global-economic-instability/</loc>
@@ -56,10 +74,19 @@
     <loc>http://localhost:1313/news/gringotts-gripes-galleon-gambles-and-the-goblin-go/</loc>
     <lastmod>2025-03-30T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/quidditch/is-autopilot-broomstick-development-leading-us-to-/</loc>
+    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/opinion/is-gringotts-goblin-gone-bust-fear-grips-wizarding/</loc>
     <lastmod>2025-03-30T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/features/knuts-and-nifflers-is-the-wizarding-world-headed-f/</loc>
+    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/news/merlins-beard-is-gillyweed-losing-itswell-gilly/</loc>
+    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/merlins-beard-weather-weirder-than-a-weasley-exper/</loc>
     <lastmod>2025-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/news/</loc>
@@ -92,10 +119,19 @@
     <loc>http://localhost:1313/quidditch/quidditch-pitch-peril-are-erratic-weather-spells-r/</loc>
     <lastmod>2025-03-30T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/opinion/quidditch-pitch-politics-are-we-headed-for-another/</loc>
+    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/quidditch/self-flying-broomsticks-and-sentient-snitches-the-/</loc>
+    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/opinion/self-sorting-socks-and-sentient-spells-are-we-conj/</loc>
     <lastmod>2025-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/quidditch/self-stirring-cauldrons-and-sentient-snitches-wize/</loc>
+    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/breaking-news/st-mungos-embraces-e-healing-initiative-house-call/</loc>
     <lastmod>2025-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/breaking-news/st-mungos-unveils-skele-grow-20-now-with-added-agi/</loc>
@@ -110,16 +146,13 @@
     <loc>http://localhost:1313/news/vanishing-venomous-tentacula--unpredictable-potion/</loc>
     <lastmod>2025-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/advancements-in-medical-technology-and-healthcare-access/</loc>
-    <lastmod>2025-03-29T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/news/wizengamot-debates-dramatic-shifts-in-weather-is-m/</loc>
+    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/advances-in-artificial-intelligence/</loc>
     <lastmod>2025-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/features/are-we-on-the-precipice-of-artificial-magic-gringo/</loc>
-    <lastmod>2025-03-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/artificial-intelligence-development-and-ethical-concerns/</loc>
     <lastmod>2025-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/opinion/autonomously-assembled-automata-are-we-marching-to/</loc>
