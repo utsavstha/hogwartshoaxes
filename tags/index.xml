@@ -6,20 +6,83 @@
     <description>Recent content in Tags on The Hogwarts Hoaxes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Advances in Artificial Intelligence and Technology</title>
-      <link>http://localhost:1313/tags/advances-in-artificial-intelligence-and-technology/</link>
-      <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/advances-in-artificial-intelligence-and-technology/</guid>
+      <title>Advances in Medical Technology and Disease Outbreaks</title>
+      <link>http://localhost:1313/tags/advances-in-medical-technology-and-disease-outbreaks/</link>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/advances-in-medical-technology-and-disease-outbreaks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Artificial Intelligence Advancements and Potential Risks</title>
+      <link>http://localhost:1313/tags/artificial-intelligence-advancements-and-potential-risks/</link>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/artificial-intelligence-advancements-and-potential-risks/</guid>
       <description></description>
     </item>
     <item>
       <title>Breaking-News</title>
       <link>http://localhost:1313/tags/breaking-news/</link>
-      <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/breaking-news/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Climate Change and Extreme Weather Events</title>
+      <link>http://localhost:1313/tags/climate-change-and-extreme-weather-events/</link>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/climate-change-and-extreme-weather-events/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Features</title>
+      <link>http://localhost:1313/tags/features/</link>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/features/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Geopolitical Conflicts and International Relations</title>
+      <link>http://localhost:1313/tags/geopolitical-conflicts-and-international-relations/</link>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/geopolitical-conflicts-and-international-relations/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Global Economic Instability and Inflation</title>
+      <link>http://localhost:1313/tags/global-economic-instability-and-inflation/</link>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/global-economic-instability-and-inflation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>News</title>
+      <link>http://localhost:1313/tags/news/</link>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/news/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Opinion</title>
+      <link>http://localhost:1313/tags/opinion/</link>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/opinion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quidditch</title>
+      <link>http://localhost:1313/tags/quidditch/</link>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/quidditch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Advances in Artificial Intelligence and Technology</title>
+      <link>http://localhost:1313/tags/advances-in-artificial-intelligence-and-technology/</link>
+      <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/advances-in-artificial-intelligence-and-technology/</guid>
       <description></description>
     </item>
     <item>
@@ -30,20 +93,6 @@
       <description></description>
     </item>
     <item>
-      <title>Features</title>
-      <link>http://localhost:1313/tags/features/</link>
-      <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/features/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Geopolitical Conflicts and International Relations</title>
-      <link>http://localhost:1313/tags/geopolitical-conflicts-and-international-relations/</link>
-      <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/geopolitical-conflicts-and-international-relations/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Global Climate Change and Extreme Weather Events</title>
       <link>http://localhost:1313/tags/global-climate-change-and-extreme-weather-events/</link>
       <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
@@ -51,31 +100,10 @@
       <description></description>
     </item>
     <item>
-      <title>News</title>
-      <link>http://localhost:1313/tags/news/</link>
-      <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/news/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Opinion</title>
-      <link>http://localhost:1313/tags/opinion/</link>
-      <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/opinion/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Public Health Concerns and Disease Outbreaks</title>
       <link>http://localhost:1313/tags/public-health-concerns-and-disease-outbreaks/</link>
       <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/public-health-concerns-and-disease-outbreaks/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Quidditch</title>
-      <link>http://localhost:1313/tags/quidditch/</link>
-      <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/quidditch/</guid>
       <description></description>
     </item>
     <item>
@@ -279,13 +307,6 @@
       <link>http://localhost:1313/tags/economic-inflation-and-global-market-fluctuations/</link>
       <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/economic-inflation-and-global-market-fluctuations/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Global Economic Instability and Inflation</title>
-      <link>http://localhost:1313/tags/global-economic-instability-and-inflation/</link>
-      <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/global-economic-instability-and-inflation/</guid>
       <description></description>
     </item>
     <item>
