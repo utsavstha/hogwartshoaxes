@@ -26,16 +26,28 @@
     <loc>http://localhost:1313/tags/climate-change-and-extreme-weather-events/</loc>
     <lastmod>2025-04-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/economic-inflation-and-cost-of-living-crisis/</loc>
+    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/features/</loc>
     <lastmod>2025-04-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/features/</loc>
     <lastmod>2025-04-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/news/foul-weather-foul-omens-magical-mayhem-linked-to-g/</loc>
+    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/geopolitical-conflicts-and-international-relations/</loc>
     <lastmod>2025-04-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/global-climate-change-and-extreme-weather-events/</loc>
+    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/global-economic-instability-and-inflation/</loc>
+    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/features/gringotts-gripe-are-knuts-not-cutting-it-anymore/</loc>
     <lastmod>2025-04-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/opinion/gringotts-gold-gone-gone-where-wizarding-world-wea/</loc>
@@ -51,6 +63,9 @@
     <lastmod>2025-04-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/news/merlins-beard-unseasonal-blizzards-plague-diagon-a/</loc>
+    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/breaking-news/ministry-launches-project-stardust-are-we-alone-in/</loc>
     <lastmod>2025-04-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/news/</loc>
@@ -71,13 +86,31 @@
     <loc>http://localhost:1313/tags/quidditch/</loc>
     <lastmod>2025-04-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/quidditch/self-chasing-snitches-and-sentient-broomsticks-are/</loc>
+    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/quidditch/self-sorting-broomsticks-a-blessing-or-a-bludger-i/</loc>
+    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/quidditch/sentient-snitches-are-we-playing-godric-or-just-be/</loc>
+    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/space-exploration-and-the-search-for-extraterrestrial-life/</loc>
     <lastmod>2025-04-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-04-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/opinion/wand-waving-wranglings-navigating-the-knots-of-wiz/</loc>
+    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/whither-the-weather-wizards-unseasonal-floods-and-/</loc>
+    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/opinion/wizards-without-borders-a-critical-look-at-interna/</loc>
     <lastmod>2025-04-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/advances-in-medical-technology-and-disease-outbreaks/</loc>
@@ -123,12 +156,6 @@
     <lastmod>2025-04-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/breaking-news/dragon-pox-panic-grips-diagon-alley-healers-scramb/</loc>
-    <lastmod>2025-04-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/economic-inflation-and-cost-of-living-crisis/</loc>
-    <lastmod>2025-04-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/global-climate-change-and-extreme-weather-events/</loc>
     <lastmod>2025-04-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/news/ministry-mystified-is-wild-magic-the-new-wild-weat/</loc>
